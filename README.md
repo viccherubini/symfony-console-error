@@ -29,6 +29,15 @@ Running it with the `--profile` option causes a `TypeError` to be thrown:
 - Symfony 7.4.0
 - symfony-cli 5.16.1
 
+## PHP Version
+```
+PHP 8.4.15 (cli) (built: Nov 18 2025 17:26:05) (NTS)
+Copyright (c) The PHP Group
+Built by Homebrew
+Zend Engine v4.4.15, Copyright (c) Zend Technologies
+    with Zend OPcache v8.4.15, Copyright (c), by Zend Technologies
+```
+
 ## PHP Extensions
 ```
 [PHP Modules]
